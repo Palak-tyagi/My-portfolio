@@ -1,23 +1,29 @@
-h1, h2, h3, h4, h5, h6 {
-    font-family: "Playfair Display";
-    letter-spacing: 5px;
-  }
+body{
+    background-color: black;
+    background-image: url("college.jpg");
+    background-size: 1600px 800px;
+    background-repeat: no-repeat;
+    color: white;
+    font-size: 20px;
+    font-style: oblique;
+}
 
-  body{
-      background-color: rgb(56, 52, 52);
-  }
-  h1,h2,h3,h4{
-      color: whitesmoke;
-  }
-  ul li {
-      color: whitesmoke;
-      font-family: "Playfair Display";
-      letter-spacing: 5px;
-  }
-  p a{
-      color: yellowgreen;
-
-  }
-  p a:hover{
-      color: teal;
-  }
+div{
+    text-align: center;
+    color: white;
+    margin-left: 900px;
+    margin-top: 100px;
+    
+  text-shadow: 2px 2px 4px #1cb8b8;
+}
+footer {
+    text-align: center;
+    margin-top: 500px;
+    color: cornsilk;
+    text-decoration-color: cornsilk;
+    text-shadow: cornsilk;
+    text-size-adjust: 5px;
+}
+   
+    
+    
