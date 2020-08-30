@@ -1,0 +1,23 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Playfair Display";
+    letter-spacing: 5px;
+  }
+
+  body{
+      background-color: rgb(56, 52, 52);
+  }
+  h1,h2,h3,h4{
+      color: whitesmoke;
+  }
+  ul li {
+      color: whitesmoke;
+      font-family: "Playfair Display";
+      letter-spacing: 5px;
+  }
+  p a{
+      color: yellowgreen;
+
+  }
+  p a:hover{
+      color: teal;
+  }
