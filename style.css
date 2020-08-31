@@ -1,7 +1,7 @@
 
 
 body{
-  
+
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -33,28 +33,83 @@ body{
    background-image: url("https://images.unsplash.com/photo-1506784693919-ef06d93c28d2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80");
    background-repeat: no-repeat;
    background-size: 1600px 800px;
-  color: white;
-  text-align: center;
+   text-align: center;
+   color: white;
+   background-color: lightgreen;
+
+ }
+ .top{
+   margin-top: 100px;
+
+ }
+ .inhead{
+   margin-top: 600px;
+   color: green;
+   font-size: 40px;
+   font-weight: bold;
+ }
+ .intro{
+   color: black;
+   text-align: center;
+   font-style: normal;
+   font-family: cursive;
+   letter-spacing: normal;
+   font-size: 25px;
  }
 
+.onlyskill{
+font-weight: bold;
+color: pink;
+margin-top: 100px;
+font-size: 40px;
+}
 
+.yesskill{
+  color: black;
+  text-align: right;
+  font-style: normal;
+  font-family: cursive;
+  letter-spacing: normal;
+  font-size: 25px;
+}
+.code{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
 
 }
 
-h1, h2 {
+.str{
+  font-weight: bold;
+  color: yellow;
+  margin-top: 100px;
+  font-size: 40px;
+}
+
+.strs{
+  color: black;
+  text-align: center;
+  font-style: normal;
+  font-family: cursive;
+  letter-spacing: normal;
+  font-size: 25px;
+
+}
+h1, h2{
   font-family: Arial, Helvetica, sans-serif;
   font-family: "Playfair Display";
   letter-spacing: 5px;
   color: white;
 }
+.foot{
+color: black;
+}
 @media screen and (max-width: 1060px) {
   #primary { width:67%; }
-  #secondary { width:30%; margin-left:3%;}  
+  #secondary { width:30%; margin-left:3%;}
 }
 /* Tabled Portrait */
 @media screen and (max-width: 768px) {
   #primary { width:100%; }
   #secondary { width:100%; margin:0; border:none; }
 }
-
-
