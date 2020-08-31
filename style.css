@@ -42,6 +42,30 @@ body{
    margin-top: 100px;
 
  }
+
+ .one{
+   margin-top: 200px;
+   margin-left: 100px;
+   margin-right: 400px;
+   font-size: 20px;
+   font-family: cursive;
+
+ }
+
+ .two {
+   margin-left: 200px;
+   margin-right: 400px;
+   font-size: 30px;
+   font-family: cursive;
+
+ }
+ .three{
+
+   font-size: 15px;
+   font-weight: bold;
+   letter-spacing: 6px;
+   font-family: sans-serif;
+ }
  .inhead{
    margin-top: 600px;
    color: green;
