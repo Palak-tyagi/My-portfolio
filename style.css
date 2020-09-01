@@ -30,11 +30,9 @@ body{
 }
 
  body{
-  background-image: url("https://tse1.mm.bing.net/th?id=OIP.yLKBnnNFLhK6TNhmWsxyEAHaFj&pid=Api&P=0&w=203&h=153");
+/*  background-image: url("https://tse1.mm.bing.net/th?id=OIP.yLKBnnNFLhK6TNhmWsxyEAHaFj&pid=Api&P=0&w=203&h=153");*/
    background-repeat: no-repeat;
    background-size: 1600px 400px;
-   border-bottom-left-radius: 70% 60px;
-   border-bottom-right-radius: 30% 10px;
    text-align: center;
    color: white;
    background-color: rgb(154, 218, 154);
