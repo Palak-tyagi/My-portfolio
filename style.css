@@ -8,7 +8,7 @@ body{
 
 .topnav {
   overflow: hidden;
-  background-color:darkgreen;
+  background-color:rgb(43, 190, 248);
 }
 
 .topnav a {
@@ -20,22 +20,22 @@ body{
 }
 
 .topnav a:hover {
-  background-color: #ddd;
-  color: rgb(30, 85, 55);
+  background-color: white;
+  color: rgb(137, 224, 250);
 }
 
 .topnav a.active {
-  background-color: #4CAF50;
+  background-color:rgb(113, 213, 238);
   color: white;
 }
 
  body{
-  background-image: url("https://tse3.mm.bing.net/th?id=OIP.POIU1dqBDkmhRmIJFz2VMQHaEK&pid=Api&P=0&w=321&h=181");
+  background-image: url("cloud.jpg");
    background-repeat: no-repeat;
    background-size: 1600px 450px;
    text-align: center;
    color: white;
-   background-color: rgb(154, 218, 154);
+   background-color: rgb(213, 236, 238);
 
  }
  .change{
@@ -45,13 +45,13 @@ body{
    width: 9%;
  }
  .top{
-  margin-top: 100px;
+  margin-top: 50px;
    text-align: center;
    font-size: 40px;
 
   font-family: "Courier New", Courier, monospace;
- 
-  color: white;
+ font-weight: bold;
+  color: rgb(24, 88, 117);
 
 
  }
@@ -81,7 +81,7 @@ body{
  } */
  .inhead{
    margin-top: 200px;
-   color: green;
+   color: rgb(42, 163, 103);
    font-size: 40px;
    font-weight: bold;
    font-family: fantasy;
@@ -201,7 +201,7 @@ font-size: 40px;
   font-size: 25px;
 }
 .btn{
-  background-color: #4CAF50; 
+  background-color: #2697f3; 
   border: none;
   color: white;
   padding: 15px 32px;
@@ -229,7 +229,7 @@ a{
 .bottom{
   margin-top: 200px;
   padding-top: 20px;
-  background-color: darkgreen;
+  background-color: rgb(43, 190, 248);
   padding-bottom: 20px;
 }
 h1, h2{
