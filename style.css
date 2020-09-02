@@ -30,7 +30,7 @@ body{
 }
 
  body{
-  background-image: url("https://tse2.mm.bing.net/th?id=OIP.xbL6d-93SUUUAY2r9cOHMAHaEw&pid=Api&P=0&w=238&h=153");
+  background-image: url("https://tse3.mm.bing.net/th?id=OIP.POIU1dqBDkmhRmIJFz2VMQHaEK&pid=Api&P=0&w=321&h=181");
    background-repeat: no-repeat;
    background-size: 1600px 400px;
    text-align: center;
@@ -48,9 +48,9 @@ body{
   margin-top: 100px;
    text-align: center;
    font-size: 40px;
-  font-family: cursive;
-  font-style: bolder;
-  font-weight: bolder;
+
+  font-family: "Courier New", Courier, monospace;
+ 
   color: white;
 
 
@@ -199,6 +199,21 @@ font-size: 40px;
   font-family: endColorstr;
   letter-spacing: normal;
   font-size: 25px;
+}
+.btn{
+  background-color: #4CAF50; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.4s;
+}
+.btn:hover{
+  background-color: rgb(89, 186, 241); /* Green */
+  color: white;
 }
 a:hover{
   color: darkblue;
