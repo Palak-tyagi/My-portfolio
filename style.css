@@ -1,4 +1,15 @@
-
+.strength{
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.others{
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.touchs{
+  margin-left: 50px;
+  margin-right: 50px;
+}
 
 body{
 
@@ -34,23 +45,11 @@ body{
  background-image: url("images/cloud.jpg");
    background-repeat: no-repeat;
    background-size: 1600px 450px;
-   text-align: center;
    color: white;
    background-color: rgb(208, 240, 235);
 
  }
 
- .change{
-   margin-top: 50px;
-   margin-left: 50px;
-   float: left;
-   width: 9%;
- }
-
- .mypic{
-   float: left;
-   margin-left: 300px;
- }
  .top{
   margin-top: 70px;
   text-align: center;
@@ -82,8 +81,6 @@ body{
   font-family: endColorstr;
   letter-spacing: normal;
   font-size: 25px;
-  margin-left: 50px;
-  margin-right: 50px;
  }
 
 /* STYLING OF ALL HEADS*/
@@ -127,40 +124,21 @@ body{
   color: white;
 }
 a:hover{
-  color: white;
+  color: darkblue;
 }
 a{
-  margin: 20px 20px;
+  margin: 20px ;
   color: white;
   font-family: 'Montserrat' , sans-serif;
   font-size:  20px;
   text-decoration:none;
 }
-/*
-.bottom{
-  margin-top: 200px;
-  padding-top: 5px;
-  background-color: rgb(43, 190, 248);
-  padding-bottom: 5px;
+
+.bottomone{
+padding-top: 5px;
+  padding-bottom: 2px;
   color: white;
-  width: 100%;
-  font-style: normal;
-  font-family: fantasy;
-    max-width: 100%;
-}
-*/
-
-.bottom{
-  margin-top: 100px;
-  color: blue;
-/*  background-color: rgb(43, 190, 248);*/
-
-  text-align: center;
-}
-.fa{
-  font-size: 20px;
-  width: 20px;
-  color: darkblue;
+ background-color: rgb(43, 190, 248);
 }
 
 hr{
@@ -168,6 +146,8 @@ hr{
   border: dotted /*#dae1e7*/lightblue 10px;
   border-bottom: 0;
   width: 4%;
+}
+
 
 @media screen and (max-width: 1060px) {
   #primary { width:67%; }
